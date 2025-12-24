@@ -1,8 +1,21 @@
 {
   "name": "RSX League",
-  "version": "1.0.1",
-  "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.1.zip",
-  "notes": "Pack inicial del contenido oficial de la liga"
+  "modules": [
+    {
+      "id": "cars",
+      "title": "Cars",
+      "version": "1.0.0",
+      "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/cars-1.0.0.zip",
+      "notes": "Coches oficiales RSX"
+    },
+    {
+      "id": "tracks",
+      "title": "Tracks",
+      "version": "1.0.1",
+      "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks-1.0.1.zip",
+      "notes": "Circuitos oficiales RSX"
+    }
+  ]
 }
 
 

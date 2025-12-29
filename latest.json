@@ -17,18 +17,9 @@
           {
             "id": "cars-gt3-pack",
             "title": "GT3 Pack",
-            "version": "1.0.2",
+            "version": "1.0.1",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/gt3-pack-1.0.0.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hy.png"
-          }
-        ],
-        "LMP2": [
-          {
-            "id": "cars-lmp2-pack",
-            "title": "LMP2 Pack",
-            "version": "1.0.0",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/lmp2-pack-1.0.0.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/23.png"
           }
         ]
       }
@@ -75,6 +66,7 @@
     ]
   }
 }
+
 
 
 

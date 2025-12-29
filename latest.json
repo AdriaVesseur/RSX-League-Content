@@ -18,7 +18,7 @@
             "id": "cars-gt3-pack",
             "title": "GT3 Pack",
             "version": "1.0.1",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.0.zip",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hy.png"
           }
         ]
@@ -66,6 +66,7 @@
     ]
   }
 }
+
 
 
 

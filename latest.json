@@ -17,7 +17,7 @@
             "title": "RSX LMP2 Pack",
             "version": "1.0.0",
             "url": "https://pub-xxxx.r2.dev/lmp2-pack-1.0.0.zip",
-            "notes": "Pack LMP2 oficial"
+            "image": "https://media.discordapp.net/attachments/481466003495190538/1455307625951395986/Rectangulo_1_copia_3.png?ex=69544058&is=6952eed8&hm=eecee12b41b663317cdc5b5b42f1765b73e265ca034a2abd417a105f327b2258&=&format=webp&quality=lossless"
           }
         ],
         "GT3": [
@@ -73,5 +73,6 @@
     ]
   }
 }
+
 
 

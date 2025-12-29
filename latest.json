@@ -2,15 +2,34 @@
   "downloads": {
     "cars": {
       "categories": {
+        "Hypercar": [
+          {
+            "id": "car_hyper_01",
+            "title": "RSX Hypercar Pack",
+            "version": "1.0.0",
+            "url": "https://pub-xxxx.r2.dev/hypercar-pack-1.0.0.zip",
+            "notes": "Pack Hypercar oficial"
+          }
+        ],
         "LMP2": [
           {
             "id": "car_lmp2_01",
             "title": "RSX LMP2 Pack",
             "version": "1.0.0",
             "url": "https://pub-xxxx.r2.dev/lmp2-pack-1.0.0.zip",
-            "image": "https://media.discordapp.net/attachments/481466003495190538/1455307625951395986/Rectangulo_1_copia_3.png?ex=69544058&is=6952eed8&hm=eecee12b41b663317cdc5b5b42f1765b73e265ca034a2abd417a105f327b2258&=&format=webp&quality=lossless"
+            "notes": "Pack LMP2 oficial"
           }
         ],
+        "GT3": [
+          {
+            "id": "car_gt3_01",
+            "title": "RSX GT3 Pack",
+            "version": "1.0.0",
+            "url": "https://pub-xxxx.r2.dev/gt3-pack-1.0.0.zip",
+            "notes": "Pack GT3 oficial"
+          }
+        ]
+      }
     },
     "tracks": {
       "categories": {
@@ -37,20 +56,14 @@
   },
   "links": {
     "live_timing": [
-      {
-        "title": "Live Timing",
-        "desc": "Tiempos en directo RSX",
-        "button": "Abrir",
-        "url": "https://www.realsimexperience.com/livetiming"
-      }
+      { "title": "Timing 1", "desc": "Página oficial de timing", "button": "Abrir", "url": "https://tusitio.com/timing1" },
+      { "title": "Timing 2", "desc": "Resultados", "button": "Abrir", "url": "https://tusitio.com/timing2" },
+      { "title": "Broadcast", "desc": "Directo", "button": "Abrir", "url": "https://tusitio.com/broadcast" }
     ],
     "servers": [
-      {
-        "title": "Server RSX",
-        "desc": "Acceso directo al servidor",
-        "button": "Unirse",
-        "url": "https://acstuff.ru/s/q:race/online/join?httpPort=14087&ip=158.179.210.192"
-      }
+      { "title": "Server 1", "desc": "Acceso rápido", "button": "Abrir", "url": "https://tusitio.com/server1" },
+      { "title": "Server 2", "desc": "Acceso rápido", "button": "Abrir", "url": "https://tusitio.com/server2" },
+      { "title": "Discord", "desc": "Soporte y acceso", "button": "Abrir", "url": "https://discord.gg/xxxx" }
     ]
   }
 }

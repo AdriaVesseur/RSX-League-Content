@@ -1,22 +1,69 @@
 {
-  "name": "RSX League",
-  "modules": [
-    {
-      "id": "cars",
-      "title": "Cars",
-      "version": "1.0.0",
-      "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.0.zip",
-      "notes": "Coches oficiales RSX"
+  "downloads": {
+    "cars": {
+      "categories": {
+        "Hypercar": [
+          {
+            "id": "car_hyper_01",
+            "title": "RSX Hypercar Pack",
+            "version": "1.0.0",
+            "url": "https://pub-xxxx.r2.dev/hypercar-pack-1.0.0.zip",
+            "notes": "Pack Hypercar oficial"
+          }
+        ],
+        "LMP2": [
+          {
+            "id": "car_lmp2_01",
+            "title": "RSX LMP2 Pack",
+            "version": "1.0.0",
+            "url": "https://pub-xxxx.r2.dev/lmp2-pack-1.0.0.zip",
+            "notes": "Pack LMP2 oficial"
+          }
+        ],
+        "GT3": [
+          {
+            "id": "car_gt3_01",
+            "title": "RSX GT3 Pack",
+            "version": "1.0.0",
+            "url": "https://pub-xxxx.r2.dev/gt3-pack-1.0.0.zip",
+            "notes": "Pack GT3 oficial"
+          }
+        ]
+      }
     },
-    {
-      "id": "tracks",
-      "title": "Tracks",
-      "version": "1.0.1",
-      "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.1.zip",
-      "notes": "Circuitos oficiales RSX"
+    "tracks": {
+      "categories": {
+        "Oficiales": [
+          {
+            "id": "track_lemans",
+            "title": "Le Mans",
+            "version": "1.0.1",
+            "url": "https://pub-xxxx.r2.dev/lemans-1.0.1.zip",
+            "notes": "Update cámaras y AI"
+          }
+        ],
+        "Extra": [
+          {
+            "id": "track_fuji",
+            "title": "Fuji Speedway",
+            "version": "1.0.0",
+            "url": "https://pub-xxxx.r2.dev/fuji-1.0.0.zip",
+            "notes": "Versión inicial"
+          }
+        ]
+      }
     }
-  ]
+  },
+  "links": {
+    "live_timing": [
+      { "title": "Timing 1", "desc": "Página oficial de timing", "button": "Abrir", "url": "https://tusitio.com/timing1" },
+      { "title": "Timing 2", "desc": "Resultados", "button": "Abrir", "url": "https://tusitio.com/timing2" },
+      { "title": "Broadcast", "desc": "Directo", "button": "Abrir", "url": "https://tusitio.com/broadcast" }
+    ],
+    "servers": [
+      { "title": "Server 1", "desc": "Acceso rápido", "button": "Abrir", "url": "https://tusitio.com/server1" },
+      { "title": "Server 2", "desc": "Acceso rápido", "button": "Abrir", "url": "https://tusitio.com/server2" },
+      { "title": "Discord", "desc": "Soporte y acceso", "button": "Abrir", "url": "https://discord.gg/xxxx" }
+    ]
+  }
 }
-
-
-

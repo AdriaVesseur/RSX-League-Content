@@ -1,69 +1,78 @@
 {
+  "version": "1.0.0",
+
   "downloads": {
     "cars": {
       "categories": {
         "Hypercar": [
           {
-            "id": "car_hyper_01",
-            "title": "RSX Hypercar Pack",
+            "id": "cars-hypercar-pack",
+            "title": "Hypercar Pack",
             "version": "1.0.0",
-            "url": "https://pub-xxxx.r2.dev/hypercar-pack-1.0.0.zip",
-            "notes": "Pack Hypercar oficial"
-          }
-        ],
-        "LMP2": [
-          {
-            "id": "car_lmp2_01",
-            "title": "RSX LMP2 Pack",
-            "version": "1.0.0",
-            "url": "https://pub-xxxx.r2.dev/lmp2-pack-1.0.0.zip",
-            "notes": "Pack LMP2 oficial"
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hypercar-pack-1.0.0.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/images/hypercar.png"
           }
         ],
         "GT3": [
           {
-            "id": "car_gt3_01",
-            "title": "RSX GT3 Pack",
+            "id": "cars-gt3-pack",
+            "title": "GT3 Pack",
             "version": "1.0.0",
-            "url": "https://pub-xxxx.r2.dev/gt3-pack-1.0.0.zip",
-            "notes": "Pack GT3 oficial"
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/gt3-pack-1.0.0.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/images/gt3.png"
+          }
+        ],
+        "LMP2": [
+          {
+            "id": "cars-lmp2-pack",
+            "title": "LMP2 Pack",
+            "version": "1.0.0",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/lmp2-pack-1.0.0.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/images/lmp2.png"
           }
         ]
       }
     },
+
     "tracks": {
       "categories": {
-        "Oficiales": [
+        "Endurance": [
           {
-            "id": "track_lemans",
-            "title": "Le Mans",
-            "version": "1.0.1",
-            "url": "https://pub-xxxx.r2.dev/lemans-1.0.1.zip",
-            "notes": "Update cámaras y AI"
+            "id": "tracks-daytona",
+            "title": "Daytona International Speedway",
+            "version": "1.0.0",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks-daytona-1.0.0.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/images/daytona.png"
           }
         ],
-        "Extra": [
+        "European": [
           {
-            "id": "track_fuji",
-            "title": "Fuji Speedway",
+            "id": "tracks-spa",
+            "title": "Spa-Francorchamps",
             "version": "1.0.0",
-            "url": "https://pub-xxxx.r2.dev/fuji-1.0.0.zip",
-            "notes": "Versión inicial"
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks-spa-1.0.0.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/images/spa.png"
           }
         ]
       }
     }
   },
+
   "links": {
     "live_timing": [
-      { "title": "Timing 1", "desc": "Página oficial de timing", "button": "Abrir", "url": "https://tusitio.com/timing1" },
-      { "title": "Timing 2", "desc": "Resultados", "button": "Abrir", "url": "https://tusitio.com/timing2" },
-      { "title": "Broadcast", "desc": "Directo", "button": "Abrir", "url": "https://tusitio.com/broadcast" }
+      {
+        "title": "RSX Live Timing",
+        "url": "https://rsxtiempos.netlify.app/"
+      }
     ],
     "servers": [
-      { "title": "Server 1", "desc": "Acceso rápido", "button": "Abrir", "url": "https://tusitio.com/server1" },
-      { "title": "Server 2", "desc": "Acceso rápido", "button": "Abrir", "url": "https://tusitio.com/server2" },
-      { "title": "Discord", "desc": "Soporte y acceso", "button": "Abrir", "url": "https://discord.gg/xxxx" }
+      {
+        "title": "RSX Main Server",
+        "desc": "Servidor oficial RSX – Carrera online",
+        "button": "JOIN SERVER",
+        "url": "https://acstuff.ru/s/q:race/online/join?httpPort=14087&ip=158.179.210.192"
+      }
     ]
   }
 }
+

@@ -7,7 +7,7 @@
         "Hypercar": [
           {
             "id": "cars-hypercar-pack",
-            "title": "Hypercar Pack",
+            "title": "Pack pito gordo",
             "version": "1.0.0",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hypercar-pack-1.0.0.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hy.png"
@@ -75,6 +75,7 @@
     ]
   }
 }
+
 
 
 

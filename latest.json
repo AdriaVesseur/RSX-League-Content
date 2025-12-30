@@ -18,7 +18,8 @@
             "id": "erc_gt3_pack",
             "title": "ERC GT3 PACK",
             "version": "1.0",
-            "status": "in-progress",
+            "status": "available",
+            "password": "1234",
             "url": "https://tu-direct-link.com/bmw_m4.zip",
             "image": "https://tu-direct-link.com/images/m4_bg.jpg"
           }
@@ -84,6 +85,7 @@
     ]
   }
 }
+
 
 
 

@@ -75,7 +75,7 @@
         "url": "https://acstuff.ru/s/q:race/online/join?httpPort=14087&ip=158.179.210.192"
       },
       {
-        "id": "server_2",
+        "id": "",
         "title": "RSX DRIFT SERVER",
         "description": "Free drift with street cars",
         "label": "JOIN SERVER",
@@ -84,6 +84,7 @@
     ]
   }
 }
+
 
 
 

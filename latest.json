@@ -1,44 +1,82 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "downloads": {
     "cars": {
       "categories": {
-        "GT3": [
+        "GT3 Series": [
           {
-            "id": "cars-gt3-pack",
-            "title": "ERC 2026 GT3 Pack",
-            "version": "1.0.1",
+            "id": "rsx_gt3_pack",
+            "title": "RSX GT3 PACK",
+            "version": "1.5",
             "status": "available",
-            "url": "https://tu-url.zip",
-            "image": "https://tu-imagen.png"
+            "url": "https://tu-direct-link.com/cars_gt3.zip",
+            "image": "https://tu-direct-link.com/images/gt3_bg.jpg"
+          }
+        ],
+        "Street Cars": [
+          {
+            "id": "rsx_m4_e92",
+            "title": "BMW M4 E92",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://tu-direct-link.com/bmw_m4.zip",
+            "image": "https://tu-direct-link.com/images/m4_bg.jpg"
           }
         ]
       }
     },
     "tracks": {
       "categories": {
-        "European": [
+        "Europe": [
           {
-            "id": "tracks-spa",
-            "title": "Spa-Francorchamps",
-            "version": "1.0.0",
+            "id": "track_spa_rsx",
+            "title": "SPA FRANCORCHAMPS",
+            "version": "2.1",
             "status": "available",
-            "url": "https://tu-url.zip",
-            "image": "https://tu-imagen.png"
+            "url": "https://tu-direct-link.com/spa.zip",
+            "image": "https://tu-direct-link.com/images/spa_bg.jpg"
+          }
+        ],
+        "America": [
+          {
+            "id": "track_watkins",
+            "title": "WATKINS GLEN",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://tu-direct-link.com/watkins.zip",
+            "image": "https://tu-direct-link.com/images/watkins_bg.jpg"
           }
         ]
       }
     },
     "utilities": {
       "categories": {
-        "Apps": [
+        "Required Apps": [
           {
-            "id": "util-pure",
-            "title": "Pure Config",
-            "version": "1.42",
-            "status": "in-progress",
-            "url": "",
-            "image": "https://tu-imagen.png"
+            "id": "util_pure_config",
+            "title": "PURE RSX CONFIG",
+            "version": "1.4.2",
+            "status": "available",
+            "url": "https://tu-direct-link.com/pure_rsx.zip",
+            "image": "https://tu-direct-link.com/images/pure_bg.jpg"
+          },
+          {
+            "id": "util_csp_settings",
+            "title": "RSX CSP SETTINGS",
+            "version": "0.2.3",
+            "status": "available",
+            "url": "https://tu-direct-link.com/csp_rsx.zip",
+            "image": "https://tu-direct-link.com/images/csp_bg.jpg"
+          }
+        ],
+        "Post-Process": [
+          {
+            "id": "util_rsx_filter",
+            "title": "RSX PHOTOREAL FILTER",
+            "version": "3.0",
+            "status": "available",
+            "url": "https://tu-direct-link.com/filter.zip",
+            "image": "https://tu-direct-link.com/images/filter_bg.jpg"
           }
         ]
       }
@@ -47,21 +85,25 @@
   "links": {
     "live_timing": [
       {
-        "title": "RSX Live Timing",
         "url": "https://rsxtiempos.netlify.app/"
       }
     ],
     "servers": [
       {
-        "title": "RSX Main Server",
-        "desc": "Servidor oficial RSX – Carrera online",
+        "title": "RSX OFFICIAL SERVER #1",
+        "desc": "GT3 Championship - 24/7 Practice",
         "button": "JOIN SERVER",
-        "url": "https://acstuff.ru/s/join"
+        "url": "https://acstuff.ru/s/join?ip=1.2.3.4&port=9000"
+      },
+      {
+        "title": "RSX DRIFT SERVER",
+        "desc": "Free drift with street cars",
+        "button": "JOIN SERVER",
+        "url": "https://acstuff.ru/s/join?ip=1.2.3.4&port=9001"
       }
     ]
   }
 }
-
 
 
 

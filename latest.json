@@ -32,7 +32,7 @@
             "id": "track_spa_rsx",
             "title": "SPA FRANCORCHAMPS",
             "version": "2.1",
-            "status": "available",
+            "status": "in-progress",
             "url": "https://tu-direct-link.com/spa.zip",
             "image": "https://tu-direct-link.com/images/spa_bg.jpg"
           }
@@ -84,6 +84,7 @@
     ]
   }
 }
+
 
 
 

@@ -5,9 +5,9 @@
       "categories": {
         "GT3 Series": [
           {
-            "id": "rsx_gt3_pack",
-            "title": "RSX GT3 PACK",
-            "version": "1.5",
+            "id": "erc_hy_pack",
+            "title": "ERC HYPERCAR PACK",
+            "version": "1.0",
             "status": "available",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/23.png"
@@ -15,10 +15,10 @@
         ],
         "Street Cars": [
           {
-            "id": "rsx_m4_e92",
-            "title": "BMW M4 E92",
+            "id": "erc_gt3_pack",
+            "title": "ERC GT3 PACK",
             "version": "1.0",
-            "status": "available",
+            "status": "in-progress",
             "url": "https://tu-direct-link.com/bmw_m4.zip",
             "image": "https://tu-direct-link.com/images/m4_bg.jpg"
           }
@@ -42,7 +42,7 @@
             "id": "track_watkins",
             "title": "BIBA FRANCO",
             "version": "1.0",
-            "status": "available",
+            "status": "in-progress",
             "url": "https://tu-direct-link.com/watkins.zip",
             "image": "https://tu-direct-link.com/images/watkins_bg.jpg"
           }
@@ -56,7 +56,7 @@
             "id": "util_pure_config",
             "title": "PURE RSX CONFIG",
             "version": "1.4.2",
-            "status": "available",
+            "status": "in-progress",
             "url": "https://tu-direct-link.com/pure_rsx.zip",
             "image": "https://tu-direct-link.com/images/pure_bg.jpg"
           }
@@ -69,10 +69,10 @@
     "servers": [
       {
         "id": "server_1",
-        "title": "RSX OFFICIAL SERVER #1",
+        "title": "ERC RACE SERVER",
         "description": "GT3 Championship - 24/7 Practice",
         "label": "JOIN SERVER",
-        "url": "https://acstuff.ru/s/join?ip=1.2.3.4&port=9000"
+        "url": "https://acstuff.ru/s/q:race/online/join?httpPort=14087&ip=158.179.210.192"
       },
       {
         "id": "server_2",
@@ -84,6 +84,7 @@
     ]
   }
 }
+
 
 
 

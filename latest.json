@@ -22,7 +22,7 @@
             "id": "tracks-spa",
             "title": "Spa-Francorchamps",
             "version": "1.0.0",
-            "status": "available",
+            "status": "in-progress",
             "url": "https://tu-url.zip",
             "image": "https://tu-imagen.png"
           }
@@ -61,6 +61,7 @@
     ]
   }
 }
+
 
 
 

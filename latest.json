@@ -9,8 +9,8 @@
             "title": "ERC HYPERCAR PACK",
             "version": "1.0hotfix",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/23.png"
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.1.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/cadi.png"
           }
         ],
         "Street Cars": [
@@ -21,7 +21,7 @@
             "status": "available",
             "password": "1234",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
-            "image": "https://tu-direct-link.com/images/m4_bg.jpg"
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/bmw.png"
           }
         ]
       }
@@ -85,6 +85,7 @@
     ]
   }
 }
+
 
 
 

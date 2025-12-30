@@ -37,7 +37,7 @@
             "image": "https://tu-direct-link.com/images/spa_bg.jpg"
           }
           {
-            "id": "track_sebring_erc26",
+            "id": "track_sebring_erc25",
             "title": "BIBA FRANCO",
             "version": "1.0",
             "status": "in-progress",
@@ -47,7 +47,7 @@
         ],
         "America": [
           {
-            "id": "track_sebring_erc26",
+            "id": "track_sebring_erc24",
             "title": "BIBA FRANCO",
             "version": "1.0",
             "status": "in-progress",
@@ -92,6 +92,7 @@
     ]
   }
 }
+
 
 
 

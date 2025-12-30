@@ -36,14 +36,6 @@
             "url": "https://tu-direct-link.com/spa.zip",
             "image": "https://tu-direct-link.com/images/spa_bg.jpg"
           }
-          {
-            "id": "track_sebring_erc25",
-            "title": "BIBA FRANCO",
-            "version": "1.0",
-            "status": "in-progress",
-            "url": "https://tu-direct-link.com/watkins.zip",
-            "image": "https://tu-direct-link.com/images/watkins_bg.jpg"
-          }
         ],
         "America": [
           {
@@ -92,6 +84,7 @@
     ]
   }
 }
+
 
 
 

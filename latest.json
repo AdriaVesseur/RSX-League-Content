@@ -40,7 +40,7 @@
         "America": [
           {
             "id": "track_watkins",
-            "title": "WATKINS GLEN",
+            "title": "BIBA FRANCO",
             "version": "1.0",
             "status": "available",
             "url": "https://tu-direct-link.com/watkins.zip",
@@ -59,46 +59,26 @@
             "status": "available",
             "url": "https://tu-direct-link.com/pure_rsx.zip",
             "image": "https://tu-direct-link.com/images/pure_bg.jpg"
-          },
-          {
-            "id": "util_csp_settings",
-            "title": "RSX CSP SETTINGS",
-            "version": "0.2.3",
-            "status": "available",
-            "url": "https://tu-direct-link.com/csp_rsx.zip",
-            "image": "https://tu-direct-link.com/images/csp_bg.jpg"
-          }
-        ],
-        "Post-Process": [
-          {
-            "id": "util_rsx_filter",
-            "title": "RSX PHOTOREAL FILTER",
-            "version": "3.0",
-            "status": "available",
-            "url": "https://tu-direct-link.com/filter.zip",
-            "image": "https://tu-direct-link.com/images/filter_bg.jpg"
           }
         ]
       }
     }
   },
   "links": {
-    "live_timing": [
-      {
-        "url": "https://rsxtiempos.netlify.app/"
-      }
-    ],
+    "live_timing": "https://rsxtiempos.netlify.app/",
     "servers": [
       {
+        "id": "server_1",
         "title": "RSX OFFICIAL SERVER #1",
-        "desc": "GT3 Championship - 24/7 Practice",
-        "button": "JOIN SERVER",
+        "description": "GT3 Championship - 24/7 Practice",
+        "label": "JOIN SERVER",
         "url": "https://acstuff.ru/s/join?ip=1.2.3.4&port=9000"
       },
       {
+        "id": "server_2",
         "title": "RSX DRIFT SERVER",
-        "desc": "Free drift with street cars",
-        "button": "JOIN SERVER",
+        "description": "Free drift with street cars",
+        "label": "JOIN SERVER",
         "url": "https://acstuff.ru/s/join?ip=1.2.3.4&port=9001"
       }
     ]

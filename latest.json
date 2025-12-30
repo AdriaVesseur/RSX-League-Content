@@ -18,7 +18,7 @@
             "id": "cars-gt3-pack",
             "title": "ERC 2026 GT3 Pack",
             "version": "1.0.1",
-            "status": "available",
+            "status": "in-progress",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hy.png"
           }
@@ -32,7 +32,7 @@
             "id": "track-sebring",
             "title": "Sebring ERC 2026",
             "version": "1.0.0",
-            "status": "available",
+            "status": "in-progress",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks-daytona-1.0.0.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
           }
@@ -57,6 +57,7 @@
     ]
   }
 }
+
 
 
 

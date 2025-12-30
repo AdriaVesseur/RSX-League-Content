@@ -3,38 +3,42 @@
   "downloads": {
     "cars": {
       "categories": {
-        "Hypercar": [
-          {
-            "id": "cars-hypercar-pack",
-            "title": "ERC 2026 Hypercar Pack",
-            "version": "1.0.0",
-            "status": "in-progress",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hypercar-pack-1.0.0.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hy.png"
-          }
-        ],
         "GT3": [
           {
             "id": "cars-gt3-pack",
             "title": "ERC 2026 GT3 Pack",
             "version": "1.0.1",
-            "status": "in-progress",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hy.png"
+            "status": "available",
+            "url": "https://tu-url.zip",
+            "image": "https://tu-imagen.png"
           }
         ]
       }
     },
     "tracks": {
       "categories": {
-        "Sebring": [
+        "European": [
           {
-            "id": "track-sebring",
-            "title": "Sebring ERC 2026",
+            "id": "tracks-spa",
+            "title": "Spa-Francorchamps",
             "version": "1.0.0",
+            "status": "available",
+            "url": "https://tu-url.zip",
+            "image": "https://tu-imagen.png"
+          }
+        ]
+      }
+    },
+    "utilities": {
+      "categories": {
+        "Apps": [
+          {
+            "id": "util-pure",
+            "title": "Pure Config",
+            "version": "1.42",
             "status": "in-progress",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks-daytona-1.0.0.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
+            "url": "",
+            "image": "https://tu-imagen.png"
           }
         ]
       }
@@ -52,21 +56,11 @@
         "title": "RSX Main Server",
         "desc": "Servidor oficial RSX – Carrera online",
         "button": "JOIN SERVER",
-        "url": "https://acstuff.ru/s/q:race/online/join?httpPort=14087&ip=158.179.210.192"
+        "url": "https://acstuff.ru/s/join"
       }
     ]
   }
 }
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -7,8 +7,8 @@
           {
             "id": "erc_hy_pack",
             "title": "ERC HYPERCAR PACK",
-            "version": "1.0hotfix",
-            "status": "available",
+            "version": "0",
+            "status": "in-progress",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.1.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/cadi.png"
           }
@@ -85,6 +85,7 @@
     ]
   }
 }
+
 
 
 

@@ -36,6 +36,15 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/23.png"
           }
         ],
+        "Sebring": [
+          {
+            "id": "track-sebring",
+            "title": "Sebring (prueba - no fufa)",
+            "version": "1.0.0",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks-daytona-1.0.0.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
+          }
+        ],
         "European": [
           {
             "id": "tracks-spa",
@@ -66,6 +75,7 @@
     ]
   }
 }
+
 
 
 

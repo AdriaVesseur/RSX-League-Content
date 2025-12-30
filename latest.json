@@ -1,6 +1,5 @@
 {
   "version": "1.0.1",
-
   "downloads": {
     "cars": {
       "categories": {
@@ -9,6 +8,7 @@
             "id": "cars-hypercar-pack",
             "title": "ERC 2026 Hypercar Pack",
             "version": "1.0.0",
+            "status": "in-progress",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hypercar-pack-1.0.0.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hy.png"
           }
@@ -18,38 +18,28 @@
             "id": "cars-gt3-pack",
             "title": "ERC 2026 GT3 Pack",
             "version": "1.0.1",
+            "status": "available",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/hy.png"
           }
         ]
       }
     },
-
     "tracks": {
       "categories": {
-        
         "Sebring": [
           {
             "id": "track-sebring",
             "title": "Sebring ERC 2026",
             "version": "1.0.0",
+            "status": "available",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks-daytona-1.0.0.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
-          }
-        ],
-        "European": [
-          {
-            "id": "tracks-spa",
-            "title": "Spa-Francorchamps",
-            "version": "1.0.0",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks-spa-1.0.0.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/images/spa.png"
           }
         ]
       }
     }
   },
-
   "links": {
     "live_timing": [
       {
@@ -67,18 +57,6 @@
     ]
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

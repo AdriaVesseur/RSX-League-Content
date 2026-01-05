@@ -35,6 +35,16 @@
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/bmw.png"
           }
+        ],
+        "Safety Car": [
+          {
+            "id": "rsx_sc_pack",
+              "title": "RSX SC PACK",
+            "version": "1.0",
+            "status": "in-progress",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.2.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/dfc.png"
+          }
         ]
       }
     },
@@ -97,6 +107,7 @@
     ]
   }
 }
+
 
 
 

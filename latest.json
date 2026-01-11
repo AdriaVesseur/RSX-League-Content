@@ -45,7 +45,7 @@
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/sc.rsx.1.0.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/sc.png"
           }
-        ]
+        ],
         "NXT": [
           {
             "id": "nxt_pack",
@@ -117,6 +117,7 @@
     ]
   }
 }
+
 
 
 

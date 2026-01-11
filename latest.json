@@ -42,8 +42,18 @@
               "title": "RSX SC PACK",
             "version": "1.0",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/rsx_sx_1.0.0.zip",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/sc.rsx.1.0.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/sc.png"
+          }
+        ]
+        "NXT": [
+          {
+            "id": "nxt_pack",
+              "title": "FRC NXT CAR",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/indy.1.0.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/indy.png"
           }
         ]
       }
@@ -107,6 +117,7 @@
     ]
   }
 }
+
 
 
 

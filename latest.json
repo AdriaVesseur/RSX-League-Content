@@ -70,14 +70,14 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
           }
         ],
-        "America": [
+        "NXT": [
           {
-            "id": "track_sebring_erc24",
-            "title": "BIBA FRANCO",
+            "id": "track_nxt",
+            "title": "TRACK PACK FRC NXT",
             "version": "1.0",
-            "status": "in-progress",
-            "url": "https://tu-direct-link.com/watkins.zip",
-            "image": "https://tu-direct-link.com/images/watkins_bg.jpg"
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks.nxt.1.0.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Rectangulo%20grande%20coche.png"
           }
         ]
       }
@@ -117,6 +117,7 @@
     ]
   }
 }
+
 
 
 

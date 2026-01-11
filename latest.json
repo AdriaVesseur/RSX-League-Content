@@ -109,14 +109,15 @@
       },
       {
         "id": "server_2",
-        "title": "RSX DRIFT SERVER",
+        "title": "FRC NXT SERVER",
         "description": "Free drift with street cars",
-        "label": "JOIN SERVER",
-        "url": "https://acstuff.ru/s/join?ip=1.2.3.4&port=9001"
+        "label": "FRC NXT SERVER",
+        "url": "https://acstuff.ru/s/q:race/online/join?httpPort=14088&ip=158.179.210.192"
       }
     ]
   }
 }
+
 
 
 

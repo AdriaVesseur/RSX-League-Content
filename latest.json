@@ -60,6 +60,17 @@
     },
     "tracks": {
       "categories": {
+        "Silverstone": [
+          {
+            "id": "track_silverstone_erc26",
+            "title": "SILVERSTONE ERC 2026",
+            "version": "1.0",
+            "status": "available",
+            "password": "silverstone",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/silverstone_erc2026.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/uk26.png"
+          }
+        ],
         "Europe": [
           {
             "id": "track_sebring_erc26",
@@ -117,6 +128,7 @@
     ]
   }
 }
+
 
 
 

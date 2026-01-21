@@ -67,7 +67,7 @@
             "version": "1.2",
             "status": "available",
             "password": "silverstone",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/silverstone1.2.zip",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/silverstone26.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/uk26.png"
           }
         ],
@@ -128,6 +128,7 @@
     ]
   }
 }
+
 
 
 

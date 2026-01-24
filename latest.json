@@ -97,10 +97,10 @@
           {
             "id": "util_pure_config",
             "title": "PURE RSX CONFIG",
-            "version": "1.4.2",
-            "status": "in-progress",
-            "url": "https://tu-direct-link.com/pure_rsx.zip",
-            "image": "https://tu-direct-link.com/images/pure_bg.jpg"
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/pure.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/pure.png"
           }
         ]
       }
@@ -126,6 +126,7 @@
     ]
   }
 }
+
 
 
 

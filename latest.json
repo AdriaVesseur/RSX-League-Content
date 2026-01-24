@@ -19,9 +19,9 @@
           {
             "id": "erc_hy_pack",
             "title": "ERC HYPERCAR PACK",
-            "version": "beta",
-            "status": "in-progress",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/league-pack-1.0.1.zip",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/RSX_HY.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/cadi.png"
           }
         ],
@@ -126,6 +126,7 @@
     ]
   }
 }
+
 
 
 

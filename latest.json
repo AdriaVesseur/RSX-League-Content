@@ -112,6 +112,16 @@
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/CSP.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/teta.png"
           }
+        ],
+        "RP": [
+          {
+            "id": "rp3.0",
+            "title": "REAL PENALTY RSX CONFIG",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/RP.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/a2.png"
+          }
         ]
       }
     }
@@ -136,6 +146,7 @@
     ]
   }
 }
+
 
 
 

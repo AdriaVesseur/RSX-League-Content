@@ -102,6 +102,16 @@
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/pure.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/pure.png"
           }
+        ],
+        "CSP": [
+          {
+            "id": "csp3.0",
+            "title": "CSP RSX CONFIG",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/CSP.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/teta.png"
+          }
         ]
       }
     }
@@ -126,6 +136,7 @@
     ]
   }
 }
+
 
 
 

@@ -19,9 +19,9 @@
           {
             "id": "erc_hy_pack",
             "title": "ERC HYPERCAR PACK",
-            "version": "1.1",
+            "version": "1.2",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/HYnew.zip",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/HYnew2.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/cadi.png"
           }
         ],
@@ -146,6 +146,7 @@
     ]
   }
 }
+
 
 
 

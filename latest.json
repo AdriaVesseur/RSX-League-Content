@@ -29,9 +29,9 @@
           {
             "id": "erc_gt3_pack",
             "title": "ERC GT3 PACK",
-            "version": "1.2",
+            "version": "1.3",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/PackGT326_2.zip",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/GT3def.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/bmw.png"
           }
         ],
@@ -146,6 +146,7 @@
     ]
   }
 }
+
 
 
 

@@ -119,7 +119,7 @@
             "title": "CSP RSX CONFIG",
             "version": "1.1",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/cspv2.zip",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/CSP.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/teta.png"
           }
         ],
@@ -166,6 +166,7 @@
     ]
   }
 }
+
 
 
 

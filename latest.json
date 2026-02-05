@@ -123,7 +123,7 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/teta.png"
           }
         ],
-        "CSP": [
+        "skins": [
           {
             "id": "skins",
             "title": "SKINS SILVERSTONE",
@@ -166,6 +166,7 @@
     ]
   }
 }
+
 
 
 

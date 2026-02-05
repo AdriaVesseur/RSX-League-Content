@@ -123,6 +123,16 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/teta.png"
           }
         ],
+        "grafismo": [
+          {
+            "id": "grafismo",
+            "title": "OVERLAY",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/substanding.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/sdsds.png"
+          }
+        ],
         "skins": [
           {
             "id": "skins",
@@ -166,6 +176,7 @@
     ]
   }
 }
+
 
 
 

@@ -83,9 +83,9 @@
           {
             "id": "track_sebring_erc26",
             "title": "SEBRING ERC 2026",
-            "version": "0.0",
-            "status": "in-progress",
-            "url": "https://tu-direct-link.com/spa.zip",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/TRACK_SEBRING.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
           }
         ],
@@ -176,6 +176,7 @@
     ]
   }
 }
+
 
 
 

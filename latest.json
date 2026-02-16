@@ -69,16 +69,7 @@
     },
     "tracks": {
       "categories": {
-        "Silverstone": [
-          {
-            "id": "track_silverstone_erc26",
-            "title": "SILVERSTONE ERC 2026",
-            "version": "1.6",
-            "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/silverstone_final.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/uk26.png"
-          }
-        ],
+        
         "Europe": [
           {
             "id": "track_sebring_erc26",
@@ -133,16 +124,7 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/sdsds.png"
           }
         ],
-        "skins": [
-          {
-            "id": "skins",
-            "title": "SKINS SILVERSTONE",
-            "version": "1.0",
-            "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/skins.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/23.png"
-          }
-        ],
+        
         "RP": [
           {
             "id": "rp3.0",
@@ -176,6 +158,7 @@
     ]
   }
 }
+
 
 
 

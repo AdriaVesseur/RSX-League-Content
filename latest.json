@@ -19,9 +19,9 @@
           {
             "id": "erc_hy_pack",
             "title": "ERC HYPERCAR PACK",
-            "version": "1.5 (BoP Sebring)",
+            "version": "1.6 (BoP Sebring)",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/HY.zip",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/HY%20(1).zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/cadi.png"
           }
         ],
@@ -158,6 +158,7 @@
     ]
   }
 }
+
 
 
 

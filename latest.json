@@ -80,17 +80,6 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
           }
         ],
-        "Si": [
-          {
-            "id": "test",
-            "title": "TEST",
-            "version": "1.0",
-            "status": "available",
-            "password":"pilinga",
-            "url": "https://drive.usercontent.google.com/download?id=1DyMha64CgNPV4Tj7uBzIGHLxd_BbLZay&export=download&authuser=2",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
-          }
-        ],
         "NXT": [
           {
             "id": "track_nxt",
@@ -169,6 +158,7 @@
     ]
   }
 }
+
 
 
 

@@ -25,6 +25,7 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/cadi.png"
           }
         ],
+        
         "Street Cars": [
           {
             "id": "erc_gt3_pack",
@@ -69,7 +70,16 @@
     },
     "tracks": {
       "categories": {
-        
+        "spa": [
+          {
+            "id": "track_spa_erc26",
+            "title": "SPA ERC 2026",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/spa.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Spa.png"
+          }
+        ],
         "Europe": [
           {
             "id": "track_sebring_erc26",

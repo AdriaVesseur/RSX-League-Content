@@ -1,8 +1,8 @@
 {
   "app": {
-       "version": "2.0.4",
+       "version": "2.0.5",
        "update": {
-         "url": "https://github.com/AdriaVesseur/RSX-League-Content/releases/download/v2.0.4/RSX-Launcher-2.0.4.zip",
+         "url": "https://github.com/AdriaVesseur/RSX-League-Content/releases/download/v2.0.5/RSX-Launcher-2.0.5.zip",
          "notes": "Descripción de los cambios"
        }
      },

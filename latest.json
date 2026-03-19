@@ -3,7 +3,7 @@
   "app": {
     "id": "rsx_league_launcher",
     "name": "RSX League Launcher",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "channel": "stable",
     "update": {
       "type": "portable_zip",

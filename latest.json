@@ -7,7 +7,7 @@
     "channel": "stable",
     "update": {
       "type": "portable_zip",
-      "url": "https://TU-CDN.com/updates/rsx_launcher_1.0.8_portable.zip",
+      "url": "https://github.com/AdriaVesseur/RSX-League-Content/releases/download/v2.0.2/RSX-Launcher-2.0.2.zip",
       "sha256": "",
       "notes": "Welcome to the RSX App 2.0"
     }

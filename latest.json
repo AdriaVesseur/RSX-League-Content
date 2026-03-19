@@ -1,11 +1,11 @@
 {
   "app": {
-    "version": "2.0.3",
-    "update": {
-      "url": "https://github.com/AdriaVesseur/RSX-League-Content/releases/download/v2.0.3/RSX-Launcher-2.0.3.zip",
-      "notes": "Fix sistema de updates"
-    }
-  },
+       "version": "2.0.3",
+       "update": {
+         "url": "https://github.com/AdriaVesseur/RSX-League-Content/releases/download/v2.0.3/RSX-Launcher-2.0.3.zip",
+         "notes": "Descripción de los cambios"
+       }
+     },
   "downloads": {
     "cars": {
       "categories": {

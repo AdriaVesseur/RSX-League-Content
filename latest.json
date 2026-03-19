@@ -3,13 +3,13 @@
   "app": {
     "id": "rsx_league_launcher",
     "name": "RSX League Launcher",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "channel": "stable",
     "update": {
       "type": "portable_zip",
       "url": "https://TU-CDN.com/updates/rsx_launcher_1.0.8_portable.zip",
       "sha256": "",
-      "notes": "Bugfixes + improved download flow."
+      "notes": "Welcome to the RSX App 2.0"
     }
   },
   "downloads": {

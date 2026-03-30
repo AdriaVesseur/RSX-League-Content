@@ -74,24 +74,14 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Spa.png"
           }
         ],
-        "Europe": [
-          {
-            "id": "track_sebring_erc26",
-            "title": "SEBRING ERC 2026",
-            "version": "1.0",
-            "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/TRACK_SEBRING.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Sebring.png"
-          }
-        ],
         "NXT": [
           {
             "id": "track_nxt",
-            "title": "TRACK PACK FRC NXT",
+            "title": "ERC NEXT GEN BARCELONA",
             "version": "1.0",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tracks.nxt.1.0.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Rectangulo%20grande%20coche.png"
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Barcelona.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Barcelona.png"
           }
         ]
       }

@@ -68,24 +68,13 @@
           {
             "id": "track_spa_erc26",
             "title": "SPA ERC 2026",
-            "version": "1.0",
+            "version": "1.2",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/spa.zip",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/spanew.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Spa.png"
           }
         ],
-        "Barcelona": [
-          {
-            "id": "Barcelona",
-            "title": "ERC NEXT GEN BARCELONA",
-            "version": "1.1",
-            "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Barcelona.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/Barcelona.png"
-          }
-        ]
-      }
-    },
+        
     "utilities": {
       "categories": {
         "Required Apps": [

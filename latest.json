@@ -36,6 +36,16 @@
             "title": "N24 GT4 PACK",
             "version": "1.0",
             "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/PCup.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/pcup.png"
+          }
+        ],
+        "PCup": [
+          {
+            "id": "n24_pcup_pack",
+            "title": "N24 Porsche Cup",
+            "version": "1.0",
+            "status": "available",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/GT4.zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/gt4.png"
           }

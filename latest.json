@@ -23,11 +23,21 @@
         "Street Cars": [
           {
             "id": "erc_gt3_pack",
-            "title": "ERC GT3 PACK",
+            "title": "ERC/N24 GT3 PACK",
             "version": "1.6 (Spa)",
             "status": "available",
             "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/EMKA%20GT3%20(1).zip",
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/erc_gt3_pack_bg_1.4BoPSebring.png"
+          }
+        ],
+        "GT4": [
+          {
+            "id": "n24_gt4_pack",
+            "title": "N24 GT4 PACK",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/GT4.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/gt4.png"
           }
         ],
         "Safety Car": [

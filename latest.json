@@ -70,14 +70,14 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tv.png"
           }
         ],
-        "NXT": [
+        "LMP2": [
           {
-            "id": "nxt_pack",
-              "title": "FRC NXT CAR",
+            "id": "lmp2_pack",
+              "title": "LMP2 ERC NG",
             "version": "1.0",
             "status": "available",
-            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/indy.1.0.zip",
-            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/indy.png"
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/LMP2.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/LMP2.png"
           }
         ]
       }

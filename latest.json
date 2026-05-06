@@ -70,6 +70,16 @@
             "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/tv.png"
           }
         ],
+        "subida": [
+          {
+            "id": "ACC_pack1",
+              "title": "ACC COCHES CESV",
+            "version": "1.0",
+            "status": "available",
+            "url": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/COCHESCESV.zip",
+            "image": "https://pub-ff124c7be9df44beaf5019e541c478be.r2.dev/subida.png"
+          }
+        ],
         "LMP2": [
           {
             "id": "lmp2_pack",
